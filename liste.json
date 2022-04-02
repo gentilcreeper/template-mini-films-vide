@@ -1,0 +1,250 @@
+{
+    "Search": [{
+            "Title": "Avengers: Age of Ultron",
+            "Year": "2015",
+            "imdbID": "tt2395427",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg"
+        }, {
+            "Title": "The Avengers",
+            "Year": "1998",
+            "imdbID": "tt0118661",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYWE1NTdjOWQtYTQ2Ny00Nzc5LWExYzMtNmRlOThmOTE2N2I4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg"
+        }, {
+            "Title": "The Avengers: Earth's Mightiest Heroes",
+            "Year": "2010–2012",
+            "imdbID": "tt1626038",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYzA4ZjVhYzctZmI0NC00ZmIxLWFmYTgtOGIxMDYxODhmMGQ2XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg"
+        }, {
+            "Title": "Ultimate Avengers: The Movie",
+            "Year": "2006",
+            "imdbID": "tt0491703",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyMjk0NTMwMl5BMl5BanBnXkFtZTgwNzY0NjAwNzE@._V1_SX300.jpg"
+        }, {
+            "Title": "Ultimate Avengers II",
+            "Year": "2006",
+            "imdbID": "tt0803093",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZjI3MTI5ZTYtZmNmNy00OGZmLTlhNWMtNjZiYmYzNDhlOGRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+        }, {
+            "Title": "The Avengers",
+            "Year": "1961–1969",
+            "imdbID": "tt0054518",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZWQwZTdjMDUtNTY1YS00MDI0LWFkNjYtZDA4MDdmZjdlMDRlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg"
+        }, {
+            "Title": "Avengers Assemble",
+            "Year": "2012–2019",
+            "imdbID": "tt2455546",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTY0NTUyMDQwOV5BMl5BanBnXkFtZTgwNjAwMTA0MDE@._V1_SX300.jpg"
+        }, {
+            "Title": "The Hobbit",
+            "Year": "1977",
+            "imdbID": "tt0077687",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNmNjZjEyZTgtM2M4Mi00OTQwLTliMTctYjNhOGNkNmFjZDM4XkEyXkFqcGdeQXVyNTc4Njg5MjA@._V1_SX300.jpg"
+        }, {
+            "Title": "Lego the Hobbit: The Video Game",
+            "Year": "2014",
+            "imdbID": "tt3584562",
+            "Type": "game",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZDViNzE1YjQtZGNmNS00NzgzLWJiNTAtYjQzYTYxNWY5ODI3XkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg"
+        }, {
+            "Title": "The Hobbit",
+            "Year": "1966",
+            "imdbID": "tt1686804",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNTc3NjUxNzUtZTRlZC00YzAzLWI5NjItNDFkMzNjODc2ODg4XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_SX300.jpg"
+        }, {
+            "Title": "The Hobbit",
+            "Year": "2003",
+            "imdbID": "tt0395578",
+            "Type": "game",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZmQyMDBlMjAtMTU2My00ZjBkLWIyNzYtZWIwZjY1Y2ZlYjQxXkEyXkFqcGdeQXVyOTQxNzM2MjY@._V1_SX300.jpg"
+        }, {
+            "Title": "A Day in the Life of a Hobbit",
+            "Year": "2002",
+            "imdbID": "tt0473467",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTk3ODI5Nzk4Nl5BMl5BanBnXkFtZTcwMDE5MTcyMQ@@._V1_SX300.jpg"
+        }, {
+            "Title": "The Hobbit: The Swedolation of Smaug",
+            "Year": "2014",
+            "imdbID": "tt4171362",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMzQxMTkyYmQtMWZmYi00NzJmLTg3MDItZmEyZDQ3NmE5OWE4XkEyXkFqcGdeQXVyMjMyNTkxNzY@._V1_SX300.jpg"
+        }, {
+            "Title": "Secrets of Middle-Earth: Inside Tolkien's 'The Hobbit'",
+            "Year": "2003",
+            "imdbID": "tt0401776",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTc4MzUxMDU3Nl5BMl5BanBnXkFtZTcwNjYxMzQyMQ@@._V1_SX300.jpg"
+        }, {
+            "Title": "Batman Returns",
+            "Year": "1992",
+            "imdbID": "tt0103776",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg"
+        }, {
+            "Title": "Batman Forever",
+            "Year": "1995",
+            "imdbID": "tt0112462",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNDdjYmFiYWEtYzBhZS00YTZkLWFlODgtY2I5MDE0NzZmMDljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+        }, {
+            "Title": "Batman & Robin",
+            "Year": "1997",
+            "imdbID": "tt0118688",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_SX300.jpg"
+        }, {
+            "Title": "The Batman",
+            "Year": "2022",
+            "imdbID": "tt1877830",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_SX300.jpg"
+        }, {
+            "Title": "The Lego Batman Movie",
+            "Year": "2016",
+            "imdbID": "tt4116284",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg"
+        }, {
+            "Title": "Batman: The Animated Series",
+            "Year": "1992–1995",
+            "imdbID": "tt0103359",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOTM3MTRkZjQtYjBkMy00YWE1LTkxOTQtNDQyNGY0YjYzNzAzXkEyXkFqcGdeQXVyOTgwMzk1MTA@._V1_SX300.jpg"
+        }, {
+            "Title": "Batman: Under the Red Hood",
+            "Year": "2010",
+            "imdbID": "tt1569923",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNmY4ZDZjY2UtOWFiYy00MjhjLThmMjctOTQ2NjYxZGRjYmNlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+        }, {
+            "Title": "Mera Naam Joker",
+            "Year": "1970",
+            "imdbID": "tt0066070",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BODUxNjU0NDItY2FmZi00YWQzLWI4YjAtZjYyNWZhODc3ZTZhXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg"
+        }, {
+            "Title": "Joker",
+            "Year": "2016",
+            "imdbID": "tt5611648",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3NzU5Mzg1MF5BMl5BanBnXkFtZTgwODIxMDg4MDI@._V1_SX300.jpg"
+        }, {
+            "Title": "Joker",
+            "Year": "2021–",
+            "imdbID": "tt16409108",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMzYzODNiN2YtMjcyZS00ZDU0LThmYzctOWFjMGU3YTUxYzQ0XkEyXkFqcGdeQXVyMTM0MjAwOTM5._V1_SX300.jpg"
+        }, {
+            "Title": "The Joker Is Wild",
+            "Year": "1957",
+            "imdbID": "tt0050569",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BY2QxY2Q1MGEtODZkOS00YjE0LWIxNTgtZjlmMmQwZDdjOWRmXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg"
+        }, {
+            "Title": "Joker",
+            "Year": "1991",
+            "imdbID": "tt0102166",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMDUzMjNjZWUtMjY5Ny00YjQ0LWEwYjgtMWYzOWU1MDdkOThhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_SX300.jpg"
+        }, {
+            "Title": "Patient J (Joker)",
+            "Year": "2005",
+            "imdbID": "tt0759932",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTMwNDk4OTcxNF5BMl5BanBnXkFtZTcwMzMzNjYzMQ@@._V1_SX300.jpg"
+        }, {
+            "Title": "Joker Game",
+            "Year": "2016–",
+            "imdbID": "tt5614180",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTgyNjczOGItOTczNi00MDk4LWIzMjktYTM3NWU4YmQ4MWVkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_SX300.jpg"
+        }, {
+            "Title": "Deepwater Surveillance: Behind the Scenes",
+            "Year": "2017",
+            "imdbID": "tt6425724",
+            "Type": "movie",
+            "Poster": "N/A"
+        },
+        {
+            "Title": "Transformers: United - Deepwater",
+            "Year": "2016",
+            "imdbID": "tt6829558",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOTk3YzU3MzgtNWUzNy00N2Y1LWFhY2EtZGEwMjA2MWY5YmY5XkEyXkFqcGdeQXVyNjM0MjkzOTc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Deepwater Deep",
+            "Year": "2018–",
+            "imdbID": "tt9196822",
+            "Type": "series",
+            "Poster": "N/A"
+        },
+        {
+            "Title": "In Their Own Words: Deepwater Horizon",
+            "Year": "2019",
+            "imdbID": "tt9567374",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZmFiMjY4NzYtYjY2YS00ODY2LTlkNjMtNjA0ZjZlYzNmODU0XkEyXkFqcGdeQXVyMTE4NDg2NjQ@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Deepwater",
+            "Year": "2019",
+            "imdbID": "tt11336242",
+            "Type": "movie",
+            "Poster": "N/A"
+        },
+        {
+            "Title": "Deepwater Horizon: BP Oil Spill",
+            "Year": "2010",
+            "imdbID": "tt13930642",
+            "Type": "movie",
+            "Poster": "N/A"
+        },
+        {
+            "Title": "Deepwater Sponger",
+            "Year": "2021",
+            "imdbID": "tt15333628",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNDBlZTdhN2MtOGI3Zi00ZGVhLTkxY2YtNGY5ZjAwNmY0MDg1XkEyXkFqcGdeQXVyODA3MjY2OTY@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Belle et Sébastien",
+            "Year": "1965–1970",
+            "imdbID": "tt0166900",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTMzOTc1MjY1Nl5BMl5BanBnXkFtZTcwNzc5OTEwMw@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Belle et Sébastien",
+            "Year": "2017–",
+            "imdbID": "tt7608344",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYjhkNmRiYzYtNWJiYy00YWI3LWIzNzUtZWNjNDM5ZTk2NGU0XkEyXkFqcGdeQXVyNzI4MDMyMTU@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Belle et Sébastien: Nouvelle Génération",
+            "Year": "2022",
+            "imdbID": "tt16248144",
+            "Type": "movie",
+            "Poster": "N/A"
+        },
+        {
+            "Title": "Belle et Sébastien 2: l'histoire d'une suite",
+            "Year": "2016",
+            "imdbID": "tt7147824",
+            "Type": "movie",
+            "Poster": "N/A"
+        }
+    ],
+    "totalResults": "499",
+    "Response": "True"
+}
